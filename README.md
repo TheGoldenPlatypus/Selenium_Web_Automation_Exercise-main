@@ -1,7 +1,6 @@
 # Selenium_Web_Automation_Exercise-main
 Selenium&amp;java automatics tests on "www.demoblaze.com" website.
 
-# Selenium Web Automation Exercise: 
 As part of QA course (Afeka college) we created and ran automatics tests 
 on "https://www.demoblaze.com/" website (demo website for QA automatics tests).
 
